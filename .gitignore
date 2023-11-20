@@ -1,0 +1,12 @@
+# Ignore compiled files
+*.class
+*.jar
+
+# Ignore log files
+*.log
+
+# Ignore a directory and its contents
+my_directory/
+
+# Ignore a specific file
+secret.txt
